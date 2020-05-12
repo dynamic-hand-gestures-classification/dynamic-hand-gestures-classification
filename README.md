@@ -74,5 +74,5 @@ Unset `LD_LIBRARY_PATH` environment variable, just in case...
 
 The VisPy visualizer should now go full screen and show the sequence as it is drawn and sent to the inference module (the ResNet-50 trained with Fast.ai).
 
-<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/desktop-captures/desktop-capture-20200512-191206.gif" width="150">
+![online inference demo](https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/desktop-captures/desktop-capture-20200512-191206.gif "desktop-capture-20200512-191206")
 
