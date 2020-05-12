@@ -2,8 +2,21 @@
 
 Anonymous repository to host code and data to run the 3D hand gestures classification pipeline, based on Vispy and a ResNet-50 trained with Fast.ai, on the SFINGE 3D dataset.
 
-![one](https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/one.png  "one") { style="width: 25%; object-fit: cover; object-position:50% 0;" }
-![two](https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/two.png  "two") { style="width: 25%; object-fit: cover; object-position:50% 0;" }
+
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/one.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/two.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/three.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/four.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/expand.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/ok.png" width="128">
+
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/grab.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/pinch.png" width="128">
+[//]: # (<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/tap.png" width="128">)
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/swipe-left.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/swipe-right.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/swipe-V.png" width="128">
+<img src="https://raw.githubusercontent.com/dynamic-hand-gestures-classification/dynamic-hand-gestures-classification/master/pics/sfinge3D-dataset/swipe-O.png" width="128">
 
 
 
